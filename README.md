@@ -1,2 +1,2 @@
 # rocks4life
-rocks are cool bro
+This is a website I made for friends to get games.
